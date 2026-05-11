@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Leandro Vieira! 👋
 
-<!--
-**leandrovieirapro/leandrovieirapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Programação focado em desenvolvimento Web.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎓 Estudando atualmente na UNINTER.
+- 💻 Focado em aprender HTML5, CSS3 e lógica de programação.
+- 📂 Este perfil armazena meus repositórios de estudos e projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Git](https://shields.io)
+
+## 🔗 Contatos
+- **WhatsApp Profissional:** [11 96775-2783](https://wa.me)
