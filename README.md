@@ -7,10 +7,11 @@ Estudante de Programação focado em desenvolvimento Web.
 - 💻 Focado em aprender HTML5, CSS3 e lógica de programação.
 - 📂 Este perfil armazena meus repositórios de estudos e projetos práticos.
 
-## 🛠️ Tecnologias
+## Tecnologias
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![Git](https://shields.io)
+
 
 ## 🔗 Contatos
  **WhatsApp Profissional:** [11 96775-2783](https://wa.me)
