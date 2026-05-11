@@ -8,7 +8,7 @@ Estudante de Programação focado em desenvolvimento Web.
 - 📂 Este perfil armazena meus repositórios de estudos e projetos práticos.
 
 ## Tecnologias
-![HTML5]()
+![HTML5](https://img.shields.io/w3c-validation/:parser)
 ![CSS3](https://shields.io)
 ![Git](https://shields.io)
 
