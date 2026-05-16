@@ -17,7 +17,7 @@ Estudante de Programação focado em desenvolvimento Web.
 * **[REVISAO](https://github.com):** Repositório focado no desenvolvimento de lógica, testes de componentes e evolução de código.
 
 ## Idiomas 
-Portugues (Nativo) 
+Portugues (Nativo) ,
 English (Intermediate)
 
 
