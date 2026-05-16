@@ -16,6 +16,10 @@ Estudante de Programação focado em desenvolvimento Web.
 ## 📂 Projetos Ativos
 * **[REVISAO](https://github.com):** Repositório focado no desenvolvimento de lógica, testes de componentes e evolução de código.
 
+## Idiomas 
+Portugues(nativo) 
+English (Intermediate)
+
 
 ## 🔗 Contatos
  -**WhatsApp Profissional:** [11 96775-2783](https://wa.me)
