@@ -14,7 +14,7 @@ Estudante de Programação focado em desenvolvimento Web.
 * **Versionamento:** Git e GitHub (Controle de versão e sincronização de projetos entre PC e Notebook)
 
 ## 📂 Projetos Ativos
-* **[REVISAO](https://github.com):** Repositório focado no desenvolvimento de lógica, testes de componentes e evolução de código.
+* **[REVISAO](https://github.com/leandrovieirapro/REVISAO):** Repositório focado no desenvolvimento de lógica, testes de componentes e evolução de código.
 
 ## Idiomas 
 Portugues (Nativo) <br>
